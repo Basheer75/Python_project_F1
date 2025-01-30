@@ -60,7 +60,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/formula-1-analysis.git
+git clone (https://github.com/Basheer75/Python_project_F1)
 cd formula-1-analysis
 Install the required dependencies:
 
